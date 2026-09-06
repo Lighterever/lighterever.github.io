@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /_astro/
+
+Sitemap: https://entropy.lighterever.com/sitemap-index.xml
